@@ -202,10 +202,10 @@ vertical: body pane on the botton</t>
     
     &lt;p&gt;專題題目:機械停車塔 Mechanical parking tower&lt;/p&gt;&lt;a href="https://github.com/40823151/stage3-ag2"&gt;repo&lt;/a&gt;&lt;a href="https://40823151.github.io/stage3-ag2/content/index.html"&gt;site&lt;/a&gt;&lt;/p&gt;
         
-                    組員: 
-&lt;a href="https://40823101.github.io/cd2021/content/index.html"&gt;林晏鈴&lt;/a&gt;&lt;/p&gt;&lt;a href="https://40823102.github.io/cd2021/content/index.html"&gt;劉怡萱&lt;/a&gt;&lt;/p&gt;
-&lt;a href="https://40823104.github.io/cd2021/content/index.html"&gt;葉沛翎&lt;/a&gt;&lt;/p&gt;&lt;a href="https://40823106.github.io/cd2021/content/index.html"&gt;廖苡雯&lt;/a&gt;&lt;/p&gt;
-&lt;a href="https://40823151.github.io/cd2021/content/index.html"&gt;陳冠宇&lt;/a&gt;&lt;/p&gt;&lt;a href="https://40871106.github.io/cd2021/content/index.html"&gt;黃翊銘&lt;/a&gt;&lt;/p&gt;&lt;a href="https://40623121.github.io/cd2021/content/index.html"&gt;蔡朝旭&lt;/a&gt;&lt;/p&gt;
+                    組員: &lt;a href="https://40623121.github.io/cd2021/content/index.html"&gt;40623121蔡朝旭&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://40823101.github.io/cd2021/content/index.html"&gt;40823101林晏鈴&lt;/a&gt;&lt;/p&gt;&lt;a href="https://40823102.github.io/cd2021/content/index.html"&gt;40823102劉怡萱&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://40823104.github.io/cd2021/content/index.html"&gt;40823104葉沛翎&lt;/a&gt;&lt;/p&gt;&lt;a href="https://40823106.github.io/cd2021/content/index.html"&gt;40823106廖苡雯&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://40823151.github.io/cd2021/content/index.html"&gt;40823151陳冠宇&lt;/a&gt;&lt;/p&gt;&lt;a href="https://40871106.github.io/cd2021/content/index.html"&gt;40871106黃翊銘&lt;/a&gt;&lt;/p&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 </t>
@@ -291,7 +291,6 @@ vertical: body pane on the botton</t>
     &lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818194840.1">&lt;section &gt;
-    &lt;h2&gt;Transition Styles&lt;/h2&gt;
     &lt;p&gt;總共有3種模組&lt;/p&gt;
     &lt;p&gt;第一種&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" height="281" src="./../images/宴鈴設計圖.png" width="500"/&gt;&lt;/p&gt;
@@ -328,7 +327,6 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20200818195323.1"> &lt;section&gt;
  &lt;p&gt;
-&lt;p&gt;小組討論決定採用第一種模組&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;電梯承載車子的底&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;&lt;img alt="" height="446" src="./../images/電梯底.jpg" width="591"/&gt;&lt;/span&gt;&lt;/p&gt;
 
@@ -336,7 +334,6 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20200818195339.1">  &lt;section&gt;
  &lt;p&gt;
-&lt;p&gt;小組討論決定採用第一種模組&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;設計理念為在車子開進去後轉軸帶動電梯門會轉動到車子要進去的方向，上圖(&lt;span&gt;電梯承載車子的底)會做上下移動，協助車子上下樓，再藉由轉軸帶動電梯門會轉動到車子要停車或離開的方向&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;img alt="" height="474" src="./../images/轉ˊ軸動.gif" width="1000"/&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
     &lt;/p&gt;
 &lt;/section&gt;</t>
@@ -371,7 +368,6 @@ vertical: body pane on the botton</t>
   &lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818195520.1">&lt;section &gt;
-    &lt;h2&gt;Transition Styles&lt;/h2&gt;
     &lt;p&gt;總共有3種模組&lt;/p&gt;
     &lt;p&gt;第二種&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" height="329" src="./../images/朝旭設計圖.png" width="500"/&gt;&lt;/p&gt;
@@ -381,7 +377,6 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818195541.1">&lt;section&gt;
-    &lt;h2&gt;Transition Styles&lt;/h2&gt;
     &lt;p&gt;總共有3種模組&lt;/p&gt;
     &lt;p&gt;第三種&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" height="354" src="./../images/螢幕擷取畫面 2021-05-26 204105.jpg" width="500"/&gt;&lt;/p&gt;
