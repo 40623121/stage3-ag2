@@ -206,7 +206,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
 
 &lt;/a&gt;
-    &lt;h3&gt;2021-協同產品設計實習-stage3-ag2&lt;/h3&gt;
+    &lt;h2&gt;2021-協同產品設計實習-stage3-ag2&lt;/h2&gt;
     
     &lt;p&gt;專題題目:機械停車塔 Mechanical parking tower&lt;/p&gt;
         &lt;a href="https://github.com/40823151/stage3-ag2"&gt;repo&lt;/a&gt;
@@ -390,7 +390,10 @@ vertical: body pane on the botton</t>
 
     &lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200818195502.1">&lt;p&gt;W18 討論期末分工並進行報告&lt;/p&gt;</t>
+<t tx="leo.20200818195502.1">&lt;section&gt;
+&lt;p&gt;W18 討論期末分工並進行報告&lt;/p&gt;
+  &lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20200818195520.1">&lt;section&gt;
     &lt;h2&gt;Tabular Tables&lt;/h2&gt;
     &lt;table&gt;
