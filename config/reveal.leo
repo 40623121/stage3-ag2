@@ -28,10 +28,7 @@
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
 </v>
 <v t="leo.20200818171312.1"><vh>slide 8</vh>
-<v t="leo.20200818194812.1"><vh>slide 13</vh>
-<v t="leo.20200818194908.1"><vh>slide 13-1</vh></v>
-<v t="leo.20200818194933.1"><vh>slide 13-2</vh></v>
-</v>
+<v t="leo.20200818194812.1"><vh>slide 13</vh></v>
 <v t="leo.20200818171344.1"><vh>slide 9</vh></v>
 </v>
 <v t="leo.20200818171412.1"><vh>slide 10</vh>
@@ -269,8 +266,10 @@ vertical: body pane on the botton</t>
      @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20200818171344.1">
-   &lt;p&gt;工作分派
+<t tx="leo.20200818171344.1">&lt;section&gt;
+    
+    &lt;p&gt;
+&lt;p&gt;工作分派
 
 40823101 林晏鈴 網頁更新/繪圖
 
@@ -284,8 +283,8 @@ vertical: body pane on the botton</t>
 
 40871106 黃翊銘 網頁更新/程式模擬
 
-40623121 蔡朝旭 網頁更新/繪圖
- &lt;/p&gt;
+40623121 蔡朝旭 網頁更新/繪圖&lt;/p&gt;
+    &lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818171412.1">&lt;section&gt;
      @others
@@ -324,33 +323,6 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818194908.1">&lt;section id="fragments"&gt;
-    &lt;h2&gt;Fragments&lt;/h2&gt;
-    &lt;p&gt;Hit the next arrow...&lt;/p&gt;
-    &lt;p class="fragment"&gt;... to step through ...&lt;/p&gt;
-    &lt;p&gt;&lt;span class="fragment"&gt;... a&lt;/span&gt; &lt;span class="fragment"&gt;fragmented&lt;/span&gt; &lt;span class="fragment"&gt;slide.&lt;/span&gt;&lt;/p&gt;
-
-    &lt;aside class="notes"&gt;
-        This slide has fragments which are also stepped through in the notes window.
-    &lt;/aside&gt;
-&lt;/section&gt;
- </t>
-<t tx="leo.20200818194933.1">&lt;section&gt;
-    &lt;h2&gt;Fragment Styles&lt;/h2&gt;
-    &lt;p&gt;There's different types of fragments, like:&lt;/p&gt;
-    &lt;p class="fragment grow"&gt;grow&lt;/p&gt;
-    &lt;p class="fragment shrink"&gt;shrink&lt;/p&gt;
-    &lt;p class="fragment fade-out"&gt;fade-out&lt;/p&gt;
-    &lt;p&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-right"&gt;fade-right, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-up"&gt;up, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-down"&gt;down, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-left"&gt;left&lt;/span&gt;
-    &lt;/p&gt;
-    &lt;p class="fragment fade-in-then-out"&gt;fade-in-then-out&lt;/p&gt;
-    &lt;p class="fragment fade-in-then-semi-out"&gt;fade-in-then-semi-out&lt;/p&gt;
-    &lt;p&gt;Highlight &lt;span class="fragment highlight-red"&gt;red&lt;/span&gt; &lt;span class="fragment highlight-blue"&gt;blue&lt;/span&gt; &lt;span class="fragment highlight-green"&gt;green&lt;/span&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
 <t tx="leo.20200818195105.1">&lt;section&gt;
     @others
 &lt;/section&gt;
