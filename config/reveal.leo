@@ -37,7 +37,6 @@
 </v>
 <v t="leo.20200818195105.1"><vh>slide 16</vh>
 <v t="leo.20200818195213.1"><vh>slide 16-1</vh></v>
-<v t="leo.20200818195237.1"><vh>slide 16-2</vh></v>
 <v t="leo.20200818195305.1"><vh>slide 16-3</vh></v>
 <v t="leo.20200818195323.1"><vh>slide 16-4</vh></v>
 <v t="leo.20200818195339.1"><vh>slide 16-5</vh></v>
@@ -337,15 +336,6 @@ vertical: body pane on the botton</t>
     &lt;h2&gt;W15&lt;/h2&gt;
     &lt;p&gt;
 &lt;p&gt;修正零件圖並進行coppeliasim模擬並修正&lt;/p&gt;
-
-
-    &lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20200818195237.1">&lt;section&gt;
- &lt;p&gt;
-&lt;p&gt;小組討論決定採用第一種模組&lt;/p&gt;
-&lt;p&gt;模擬車子&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="508" src="./../images/車.jpg" width="676"/&gt;&lt;/p&gt;
 
 
     &lt;/p&gt;
