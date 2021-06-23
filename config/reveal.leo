@@ -341,7 +341,8 @@ vertical: body pane on the botton</t>
 
     &lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200818195237.1"> &lt;p&gt;
+<t tx="leo.20200818195237.1">&lt;section&gt;
+ &lt;p&gt;
 &lt;p&gt;小組討論決定採用第一種模組&lt;/p&gt;
 &lt;p&gt;模擬車子&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" height="508" src="./../images/車.jpg" width="676"/&gt;&lt;/p&gt;
@@ -349,7 +350,8 @@ vertical: body pane on the botton</t>
 
     &lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200818195305.1"> &lt;p&gt;
+<t tx="leo.20200818195305.1"> &lt;section&gt;
+ &lt;p&gt;
 &lt;p&gt;小組討論決定採用第一種模組&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;電梯轉軸，讓車子可以在這區間做動&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;&lt;img alt="" height="640" src="./../images/轉ˊ軸.jpg" width="576"/&gt;&lt;/span&gt;&lt;/p&gt;
@@ -357,14 +359,16 @@ vertical: body pane on the botton</t>
 
     &lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200818195323.1"> &lt;p&gt;
+<t tx="leo.20200818195323.1"> &lt;section&gt;
+ &lt;p&gt;
 &lt;p&gt;小組討論決定採用第一種模組&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;電梯承載車子的底&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;&lt;img alt="" height="446" src="./../images/電梯底.jpg" width="591"/&gt;&lt;/span&gt;&lt;/p&gt;
 
     &lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200818195339.1"> &lt;p&gt;
+<t tx="leo.20200818195339.1">  &lt;section&gt;
+ &lt;p&gt;
 &lt;p&gt;小組討論決定採用第一種模組&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;設計理念為在車子開進去後轉軸帶動電梯門會轉動到車子要進去的方向，上圖(&lt;span&gt;電梯承載車子的底)會做上下移動，協助車子上下樓，再藉由轉軸帶動電梯門會轉動到車子要停車或離開的方向&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;img alt="" height="474" src="./../images/轉ˊ軸動.gif" width="1000"/&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
     &lt;/p&gt;
