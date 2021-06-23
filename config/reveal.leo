@@ -200,9 +200,7 @@ vertical: body pane on the botton</t>
 &lt;/a&gt;
     &lt;h3&gt;2021-協同產品設計實習-stage3-ag2&lt;/h3&gt;
     
-    &lt;p&gt;專題題目:機械停車塔 Mechanical parking tower&lt;/p&gt;
-        &lt;a href="https://github.com/40823151/stage3-ag2"&gt;repo&lt;/a&gt;
-    &lt;a href="https://40823151.github.io/stage3-ag2/content/index.html"&gt;site&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;專題題目:機械停車塔 Mechanical parking tower&lt;/p&gt;&lt;a href="https://github.com/40823151/stage3-ag2"&gt;repo&lt;/a&gt;&lt;a href="https://40823151.github.io/stage3-ag2/content/index.html"&gt;site&lt;/a&gt;&lt;/p&gt;
         
                     組員: 
 &lt;a href="https://40823101.github.io/cd2021/content/index.html"&gt;40823101林晏鈴&lt;/a&gt;&lt;/p&gt;&lt;a href="https://40823102.github.io/cd2021/content/index.html"&gt;40823102劉怡萱&lt;/a&gt;&lt;/p&gt;
@@ -293,7 +291,7 @@ vertical: body pane on the botton</t>
 
     &lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200818194840.1">&lt;section id="transitions"&gt;
+<t tx="leo.20200818194840.1">&lt;section &gt;
     &lt;h2&gt;Transition Styles&lt;/h2&gt;
     &lt;p&gt;總共有3種模組&lt;/p&gt;
     &lt;p&gt;第一種&lt;/p&gt;
@@ -360,7 +358,7 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818195445.1">&lt;section&gt;
-    &lt;h2&gt;W16&lt;/h2&gt;
+    &lt;h2&gt;W17&lt;/h2&gt;
     &lt;p&gt;
 &lt;p&gt;進行coppeliasim模擬讓程式控制鍵盤可以操作&lt;/p&gt;
 &lt;p&gt;製作過程影片&lt;/p&gt;
@@ -373,7 +371,7 @@ vertical: body pane on the botton</t>
 &lt;p&gt;W18 討論期末分工並進行報告&lt;/p&gt;
   &lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200818195520.1">&lt;section id="transitions"&gt;
+<t tx="leo.20200818195520.1">&lt;section &gt;
     &lt;h2&gt;Transition Styles&lt;/h2&gt;
     &lt;p&gt;總共有3種模組&lt;/p&gt;
     &lt;p&gt;第二種&lt;/p&gt;
@@ -383,7 +381,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818195541.1">&lt;section id="transitions"&gt;
+<t tx="leo.20200818195541.1">&lt;section&gt;
     &lt;h2&gt;Transition Styles&lt;/h2&gt;
     &lt;p&gt;總共有3種模組&lt;/p&gt;
     &lt;p&gt;第三種&lt;/p&gt;
