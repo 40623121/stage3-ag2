@@ -19,27 +19,25 @@
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
-<v t="leo.20200818170535.1"><vh>slide 2</vh></v>
-<v t="leo.20200818170636.1"><vh>slide3</vh>
-<v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
-<v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
-<v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
-</v>
-<v t="leo.20200818170725.1"><vh>slide 4</vh></v>
+<v t="leo.20200818170636.1"><vh>slide3</vh></v>
+<v t="leo.20200818170725.1"><vh>slide 4</vh>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
-<v t="leo.20200818171215.1"><vh>slide 6</vh></v>
-<v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
-<v t="leo.20200818171312.1"><vh>slide 8</vh></v>
-<v t="leo.20200818171344.1"><vh>slide 9</vh></v>
-<v t="leo.20200818171412.1"><vh>slide 10</vh></v>
+</v>
+<v t="leo.20200818171244.1"><vh>slide 7 </vh>
 <v t="leo.20200818194721.1"><vh>slide 11</vh></v>
-<v t="leo.20200818194751.1"><vh>slide 12</vh></v>
+<v t="leo.20200818170535.1"><vh>slide 2</vh></v>
+</v>
+<v t="leo.20200818171312.1"><vh>slide 8</vh>
 <v t="leo.20200818194812.1"><vh>slide 13</vh>
 <v t="leo.20200818194908.1"><vh>slide 13-1</vh></v>
 <v t="leo.20200818194933.1"><vh>slide 13-2</vh></v>
 </v>
+<v t="leo.20200818171344.1"><vh>slide 9</vh></v>
+</v>
+<v t="leo.20200818171412.1"><vh>slide 10</vh>
+<v t="leo.20200818194751.1"><vh>slide 12</vh></v>
 <v t="leo.20200818194840.1"><vh>slide 14</vh></v>
-<v t="leo.20200818195039.1"><vh>slide 15</vh></v>
+</v>
 <v t="leo.20200818195105.1"><vh>slide 16</vh>
 <v t="leo.20200818195213.1"><vh>slide 16-1</vh></v>
 <v t="leo.20200818195237.1"><vh>slide 16-2</vh></v>
@@ -47,10 +45,12 @@
 <v t="leo.20200818195323.1"><vh>slide 16-4</vh></v>
 <v t="leo.20200818195339.1"><vh>slide 16-5</vh></v>
 </v>
-<v t="leo.20200818195147.1"><vh>slide 17</vh></v>
+<v t="leo.20200818195147.1"><vh>slide 17</vh>
 <v t="leo.20200818195403.1"><vh>slide 18</vh></v>
-<v t="leo.20200818195426.1"><vh>slide 19</vh></v>
+</v>
+<v t="leo.20200818195426.1"><vh>slide 19</vh>
 <v t="leo.20200818195445.1"><vh>slide 20</vh></v>
+</v>
 <v t="leo.20200818195502.1"><vh>slide 21</vh></v>
 <v t="leo.20200818195520.1"><vh>slide 22</vh></v>
 <v t="leo.20200818195541.1"><vh>slide 23</vh></v>
@@ -208,197 +208,118 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;a href="https://revealjs.com"&gt;
-        &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
-    &lt;/a&gt;
-    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
-    &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; and &lt;a href="https://github.com/hakimel/reveal.js/graphs/contributors"&gt;contributors&lt;/a&gt;&lt;/small&gt;
+
+&lt;/a&gt;
+    &lt;h3&gt;2021-協同產品設計實習-stage3-ag2&lt;/h3&gt;
+    
+    &lt;p&gt;專題題目:機械停車塔 Mechanical parking tower&lt;/p&gt;
+        &lt;a href="https://github.com/40823151/stage3-ag2"&gt;repo&lt;/a&gt;
+    &lt;a href="https://40823151.github.io/stage3-ag2/content/index.html"&gt;site&lt;/a&gt;&lt;/p&gt;
+        
+                    組員: 
+                    &lt;a href="https://40823101.github.io/cd2021/content/index.html"&gt;40823101林晏鈴&lt;/a&gt;&lt;/p&gt;
+                     &lt;a href="https://40823102.github.io/cd2021/content/index.html"&gt;40823102劉怡萱&lt;/a&gt;&lt;/p&gt;
+                     &lt;a href="https://40823104.github.io/cd2021/content/index.html"&gt;40823104葉沛翎&lt;/a&gt;&lt;/p&gt;
+                     &lt;a href="https://40823106.github.io/cd2021/content/index.html"&gt;40823106廖苡雯&lt;/a&gt;&lt;/p&gt;
+                     &lt;a href="https://40823151.github.io/cd2021/content/index.html"&gt;40823151陳冠宇&lt;/a&gt;&lt;/p&gt;
+                     &lt;a href="https://40871106.github.io/cd2021/content/index.html"&gt;40871106黃翊銘&lt;/a&gt;&lt;/p&gt;
+                     &lt;a href="https://40623121.github.io/cd2021/content/index.html"&gt;40623121蔡朝旭&lt;/a&gt;&lt;/p&gt;
     &lt;/p&gt;
 &lt;/section&gt;
-
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
+    &lt;h2&gt;設計目標 &lt;/h2&gt;
     &lt;p&gt;
-        reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
+        &lt;p&gt;&lt;img alt="" height="436" src="./../images/螢幕擷取畫面 2021-05-12 210610.png" width="623"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="460" src="./../images/螢幕擷取畫面 2021-05-12 210604.png" width="722"/&gt;&lt;/p&gt;
     &lt;/p&gt;
 &lt;/section&gt;
-
 </t>
-<t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
-&lt;section&gt;
-    @others
+<t tx="leo.20200818170636.1">&lt;section&gt;
+    &lt;h2&gt;每週進度&lt;/h2&gt;
+    &lt;p&gt;
+&lt;p&gt;W11 討論專題方向、每週進度&lt;/p&gt;
+&lt;p&gt;W12 建置網頁，每位成員進行協同，並討論專題題目&lt;/p&gt;
+&lt;p&gt;W13 進行零件繪製並討論分工&lt;/p&gt;
+&lt;p&gt;W14 進行零件繪製並討論&lt;/p&gt;
+&lt;p&gt;W15 修正零件圖並進行coppeliasim模擬並修正&lt;/p&gt;
+&lt;p&gt;W16 進行coppeliasim模擬與機構更改&lt;/p&gt;
+&lt;p&gt;W17 進行coppeliasim模擬讓程式控制鍵盤可以操作&lt;/p&gt;
+&lt;p&gt;W18 討論期末分工並進行報告&lt;/p&gt;
+    &lt;/p&gt;
 &lt;/section&gt;
-
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            ...
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-    &lt;p&gt;Code syntax highlighting courtesy of &lt;a href="https://highlightjs.org/usage/"&gt;highlight.js&lt;/a&gt;.&lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818171215.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;With animations&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24"&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-
-        function SecondExample() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818171244.1">&lt;section&gt;
-    &lt;h2&gt;Point of View&lt;/h2&gt;
-    &lt;p&gt;
-        Press &lt;strong&gt;ESC&lt;/strong&gt; to enter the slide overview.
-    &lt;/p&gt;
-    &lt;p&gt;
-        Hold down the &lt;strong&gt;alt&lt;/strong&gt; key (&lt;strong&gt;ctrl&lt;/strong&gt; in Linux) and click on any element to zoom towards it using &lt;a href="http://lab.hakim.se/zoom-js"&gt;zoom.js&lt;/a&gt;. Click again to zoom back out.
-    &lt;/p&gt;
-    &lt;p&gt;
-        (NOTE: Use ctrl + click in Linux.)
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818171312.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;h2&gt;Auto-Animate&lt;/h2&gt;
-    &lt;p&gt;Automatically animate matching elements across slides with &lt;a href="https://revealjs.com/auto-animate/"&gt;Auto-Animate&lt;/a&gt;.&lt;/p&gt;
-    &lt;div class="r-hstack justify-center"&gt;
-        &lt;div data-id="box1" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171344.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;div class="r-hstack justify-center"&gt;
-        &lt;div data-id="box1" data-auto-animate-delay="0" style="background: cyan; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" data-auto-animate-delay="0.1" style="background: magenta; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" data-auto-animate-delay="0.2" style="background: yellow; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;h2 style="margin-top: 20px;"&gt;Auto-Animate&lt;/h2&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171412.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;div class="r-stack"&gt;
-        &lt;div data-id="box1" style="background: cyan; width: 300px; height: 300px; border-radius: 200px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" style="background: magenta; width: 200px; height: 200px; border-radius: 200px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" style="background: yellow; width: 100px; height: 100px; border-radius: 200px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;h2 style="margin-top: 20px;"&gt;Auto-Animate&lt;/h2&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818194721.1">&lt;section&gt;
-    &lt;h2&gt;Touch Optimized&lt;/h2&gt;
-    &lt;p&gt;
-        Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your slides.
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818194751.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-        ## Markdown support
-
-        Write content using inline or external Markdown.
-        Instructions and more info available in the [readme](https://revealjs.com/markdown/).
-
-        ```[]
-        &lt;section data-markdown&gt;
-          ## Markdown support
-
-          Write content using inline or external Markdown.
-          Instructions and more info available in the [readme](https://revealjs.com/markdown/).
-        &lt;/section&gt;
-        ```
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818194812.1">&lt;section&gt;
      @others
 &lt;/section&gt;
 
 </t>
+<t tx="leo.20200818171138.1">&lt;section&gt;
+    &lt;h2&gt;W11&lt;/h2&gt;
+    &lt;p&gt;
+&lt;p&gt;討論專題方向、每週進度&lt;/p&gt;
+    &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200818171244.1">&lt;section&gt;
+     @others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20200818171312.1">&lt;section&gt;
+     @others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200818171344.1">
+   &lt;p&gt;工作分派
+
+40823101 林晏鈴 網頁更新/繪圖
+
+40823102 劉怡萱 網頁更新/繪圖
+
+40823104 葉沛翎 網頁更新/繪圖
+
+40823106 廖苡雯 網頁更新/程式模擬
+
+40823151 陳冠宇 網頁更新/程式模擬
+
+40871106 黃翊銘 網頁更新/程式模擬
+
+40623121 蔡朝旭 網頁更新/繪圖
+ &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200818171412.1">&lt;section&gt;
+     @others
+&lt;/section&gt;
+</t>
+<t tx="leo.20200818194721.1">&lt;section&gt;
+    &lt;h2&gt;W12&lt;/h2&gt;
+    &lt;p&gt;
+&lt;p&gt;建置網頁，每位成員進行協同，並討論專題題目&lt;/p&gt;
+    &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200818194751.1">&lt;section&gt;
+    &lt;h2&gt;W14&lt;/h2&gt;
+    &lt;p&gt;
+&lt;p&gt;進行零件繪製並討論&lt;/p&gt;
+
+
+    &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200818194812.1">&lt;section&gt;
+    &lt;h2&gt;W13&lt;/h2&gt;
+    &lt;p&gt;
+&lt;p&gt;進行零件繪製並討論分工&lt;/p&gt;
+
+
+    &lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20200818194840.1">&lt;section id="transitions"&gt;
     &lt;h2&gt;Transition Styles&lt;/h2&gt;
     &lt;p&gt;
-        You can select from different transitions, like: &lt;br&gt;
-        &lt;a href="?transition=none#/transitions"&gt;None&lt;/a&gt; -
-        &lt;a href="?transition=fade#/transitions"&gt;Fade&lt;/a&gt; -
-        &lt;a href="?transition=slide#/transitions"&gt;Slide&lt;/a&gt; -
-        &lt;a href="?transition=convex#/transitions"&gt;Convex&lt;/a&gt; -
-        &lt;a href="?transition=concave#/transitions"&gt;Concave&lt;/a&gt; -
-        &lt;a href="?transition=zoom#/transitions"&gt;Zoom&lt;/a&gt;
+        p&gt;總共有3種模組&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="354" src="./../images/螢幕擷取畫面 2021-05-26 204105.jpg" width="500"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="329" src="./../images/朝旭設計圖.png" width="500"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="281" src="./../images/宴鈴設計圖.png" width="500"/&gt;&lt;/p&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
@@ -430,107 +351,80 @@ vertical: body pane on the botton</t>
     &lt;p class="fragment fade-in-then-semi-out"&gt;fade-in-then-semi-out&lt;/p&gt;
     &lt;p&gt;Highlight &lt;span class="fragment highlight-red"&gt;red&lt;/span&gt; &lt;span class="fragment highlight-blue"&gt;blue&lt;/span&gt; &lt;span class="fragment highlight-green"&gt;green&lt;/span&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200818195039.1">&lt;section id="themes"&gt;
-    &lt;h2&gt;Themes&lt;/h2&gt;
-    &lt;p&gt;
-        reveal.js comes with a few themes built in: &lt;br&gt;
-        &lt;!-- Hacks to swap themes after the page has loaded. Not flexible and only intended for the reveal.js demo deck. --&gt;
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/black.css'); return false;"&gt;Black (default)&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/white.css'); return false;"&gt;White&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/league.css'); return false;"&gt;League&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/sky.css'); return false;"&gt;Sky&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/beige.css'); return false;"&gt;Beige&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/simple.css'); return false;"&gt;Simple&lt;/a&gt; &lt;br&gt;
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/serif.css'); return false;"&gt;Serif&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/blood.css'); return false;"&gt;Blood&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/night.css'); return false;"&gt;Night&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/moon.css'); return false;"&gt;Moon&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/solarized.css'); return false;"&gt;Solarized&lt;/a&gt;
-    &lt;/p&gt;
-&lt;/section&gt;
-</t>
 <t tx="leo.20200818195105.1">&lt;section&gt;
     @others
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818195147.1">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
-    &lt;h2&gt;Background Transitions&lt;/h2&gt;
-    &lt;p&gt;
-        Different background transitions are available via the backgroundTransition option. This one's called "zoom".
-    &lt;/p&gt;
-    &lt;pre&gt;&lt;code class="hljs javascript"&gt;Reveal.configure({ backgroundTransition: 'zoom' })&lt;/code&gt;&lt;/pre&gt;
+<t tx="leo.20200818195147.1">&lt;section&gt;
+    @others
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818195213.1">&lt;section data-background="#dddddd"&gt;
-    &lt;h2&gt;Slide Backgrounds&lt;/h2&gt;
+<t tx="leo.20200818195213.1">&lt;section&gt;
+    &lt;h2&gt;W15&lt;/h2&gt;
     &lt;p&gt;
-        Set &lt;code&gt;data-background="#dddddd"&lt;/code&gt; on a slide to change the background color. All CSS color formats are supported.
+&lt;p&gt;修正零件圖並進行coppeliasim模擬並修正&lt;/p&gt;
+
+
     &lt;/p&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818195237.1">&lt;section data-background="https://static.slid.es/reveal/image-placeholder.png"&gt;
-    &lt;h2&gt;Image Backgrounds&lt;/h2&gt;
-    &lt;pre&gt;&lt;code class="hljs html"&gt;&amp;lt;section data-background="image.png"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818195305.1">&lt;section data-background="https://static.slid.es/reveal/image-placeholder.png" data-background-repeat="repeat" data-background-size="100px"&gt;
-    &lt;h2&gt;Tiled Backgrounds&lt;/h2&gt;
-    &lt;pre&gt;&lt;code class="hljs html" style="word-wrap: break-word;"&gt;&amp;lt;section data-background="image.png" data-background-repeat="repeat" data-background-size="100px"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818195323.1">&lt;section data-background-video="https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.mp4" data-background-color="#000000"&gt;
-    &lt;div style="background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px;"&gt;
-        &lt;h2&gt;Video Backgrounds&lt;/h2&gt;
-        &lt;pre&gt;&lt;code class="hljs html" style="word-wrap: break-word;"&gt;&amp;lt;section data-background-video="video.mp4,video.webm"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818195339.1">&lt;section data-background="http://i.giphy.com/90F8aUepslB84.gif"&gt;
-    &lt;h2&gt;... and GIFs!&lt;/h2&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200818195403.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
-    &lt;h2&gt;Background Transitions&lt;/h2&gt;
-    &lt;p&gt;
-        You can override background transitions per-slide.
-    &lt;/p&gt;
-    &lt;pre&gt;&lt;code class="hljs html" style="word-wrap: break-word;"&gt;&amp;lt;section data-background-transition="zoom"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
+<t tx="leo.20200818195237.1"> &lt;p&gt;
+&lt;p&gt;小組討論決定採用第一種模組&lt;/p&gt;
+&lt;p&gt;模擬車子&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="508" src="./../images/車.jpg" width="676"/&gt;&lt;/p&gt;
 
-</t>
-<t tx="leo.20200818195426.1">&lt;section data-background-iframe="https://hakim.se" data-background-interactive&gt;
-    &lt;div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;"&gt;
-        &lt;h2&gt;Iframe Backgrounds&lt;/h2&gt;
-        &lt;p&gt;Since reveal.js runs on the web, you can easily embed other web content. Try interacting with the page in the background.&lt;/p&gt;
-    &lt;/div&gt;
+
+    &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200818195305.1"> &lt;p&gt;
+&lt;p&gt;小組討論決定採用第一種模組&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;電梯轉軸，讓車子可以在這區間做動&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="640" src="./../images/轉ˊ軸.jpg" width="576"/&gt;&lt;/span&gt;&lt;/p&gt;
+
+
+    &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200818195323.1"> &lt;p&gt;
+&lt;p&gt;小組討論決定採用第一種模組&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;電梯承載車子的底&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="446" src="./../images/電梯底.jpg" width="591"/&gt;&lt;/span&gt;&lt;/p&gt;
+
+    &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200818195339.1"> &lt;p&gt;
+&lt;p&gt;小組討論決定採用第一種模組&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;設計理念為在車子開進去後轉軸帶動電梯門會轉動到車子要進去的方向，上圖(&lt;span&gt;電梯承載車子的底)會做上下移動，協助車子上下樓，再藉由轉軸帶動電梯門會轉動到車子要停車或離開的方向&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;img alt="" height="474" src="./../images/轉ˊ軸動.gif" width="1000"/&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+    &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200818195403.1">&lt;section&gt;
+    &lt;h2&gt;W16&lt;/h2&gt;
+    &lt;p&gt;
+&lt;p&gt;進行coppeliasim模擬與機構更改&lt;/p&gt;
+&lt;p&gt;製作過程影片&lt;/p&gt;
+&lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/P4Js3_6Uplw" title="YouTube video player" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+
+
+    &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200818195426.1">&lt;section&gt;
+    @others
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818195445.1">&lt;section&gt;
-    &lt;h2&gt;Marvelous List&lt;/h2&gt;
-    &lt;ul&gt;
-        &lt;li&gt;No order here&lt;/li&gt;
-        &lt;li&gt;Or here&lt;/li&gt;
-        &lt;li&gt;Or here&lt;/li&gt;
-        &lt;li&gt;Or here&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/section&gt;
+    &lt;h2&gt;W16&lt;/h2&gt;
+    &lt;p&gt;
+&lt;p&gt;進行coppeliasim模擬讓程式控制鍵盤可以操作&lt;/p&gt;
+&lt;p&gt;製作過程影片&lt;/p&gt;
+&lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" data-mce-fragment="1" frameborder="0" height="315" src="https://www.youtube.com/embed/7b4jwiAi170" title="YouTube video player" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;最後呈現&lt;/p&gt;
 
-</t>
-<t tx="leo.20200818195502.1">&lt;section&gt;
-    &lt;h2&gt;Fantastic Ordered List&lt;/h2&gt;
-    &lt;ol&gt;
-        &lt;li&gt;One is smaller than...&lt;/li&gt;
-        &lt;li&gt;Two is smaller than...&lt;/li&gt;
-        &lt;li&gt;Three!&lt;/li&gt;
-    &lt;/ol&gt;
-&lt;/section&gt;
 
-</t>
+    &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200818195502.1">&lt;p&gt;W18 討論期末分工並進行報告&lt;/p&gt;</t>
 <t tx="leo.20200818195520.1">&lt;section&gt;
     &lt;h2&gt;Tabular Tables&lt;/h2&gt;
     &lt;table&gt;
